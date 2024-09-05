@@ -13,7 +13,7 @@ Hey there! Thanks for taking the time to check out my website.
 {% for category in site.categories %}
 <h1> {{ category | first }} </h1>
 <ul>
-{% for posts in category %}
+{% for posts in category | first %}
 
 {% for post in posts %}
 {% if post.url %}
