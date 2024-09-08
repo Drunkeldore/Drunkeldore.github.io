@@ -12,7 +12,6 @@ My capstone project was about creating a [convolutional neural network](https://
 
 The project was built using TensorFlow's Keras module and many data libraries like scikit-learn, numpy, seaborn, and more.
 # Auto gift give/receive
-{: style="clear: left"} 
 <hr>
 
 <a href="https://github.com/Drunkeldore/AutoGiftSender" style="float:left;">
